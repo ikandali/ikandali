@@ -2,7 +2,7 @@
 <h3 align="center">IoT & Automation Engineering Student @ ENSAM Casablanca</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=IoT+%7C+Automation+%7C+Edge+Computing+%7C+AI;Building+distributed+industrial+IoT+systems;Embedded+%7C+Real-time+monitoring+%7C+ML+anomaly+detection;R%26D+IoT+Engineer+%40+Capgemini+Engineering+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=IoT+%7C+Automation+%7C+Edge+Computing+%7C+AI;Building+distributed+industrial+IoT+systems;Embedded+%7C+Real-time+monitoring+%7C+ML+anomaly+detection;" alt="Typing SVG" />
 </p>
 
 <p align="center">
