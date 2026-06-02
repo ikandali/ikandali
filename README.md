@@ -38,8 +38,6 @@ portfolio:   https://imanekandali.github.io
 ---
 
 ### 🏆 Recent Highlights
-
-- 🏢 **R&D IoT Engineer (PFE)** — Capgemini Engineering · End-Edge-Cloud platform for smart Li-ion battery storage
 - ⚓ **Port automation intern** — MARSA MAROC · availability **87% → 96%**, **−42%** unplanned downtime
 - 🤖 **Automated production intern** — SOMACA · Renault Morocco · collaborative-robot assembly line
 - 👩‍💻 **President** — ENSAM Students Association · 4 hackathons, 300+ participants
