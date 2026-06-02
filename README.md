@@ -119,20 +119,11 @@ portfolio:   https://imanekandali.github.io
 
 ---
 
-### 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ikandali&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</p>
-
----
 
 ### 📌 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔋 **Smart Energy Storage (End-Edge-Cloud)** | R&D IoT platform for Li-ion battery management — Capgemini PFE | C++17, Docker, MQTT, Grafana |
-| 🔬 **[NARX-Transformer-SoH](https://github.com/ikandali/NARX-Transformer-SoH)** | Battery State-of-Health estimation with ML | Python, Jupyter |
 | 🎯 **YOLO v8 Object Detection** | Real-time detection on Raspberry Pi — 94.2% mAP | Python, OpenCV |
 | 🚁 **Autonomous Drone** | 6-DOF modeling + robust PID controller | MATLAB/Simulink |
 | 🌐 **[Portfolio](https://imanekandali.github.io)** | Personal portfolio website | HTML, CSS, JS |
